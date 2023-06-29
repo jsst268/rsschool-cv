@@ -1,6 +1,6 @@
 
 # GOVARD ROLF
-![Logo][1]
+![i can not show to you picture][1]
 
 1. Phone :   +0... 
 2. Email:    js.st@inbox.ru
