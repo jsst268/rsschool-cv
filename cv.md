@@ -1,31 +1,32 @@
 
-# __G O V A R D__   **R O L F**
-####PROFESSIONAL TITLE
+## __G O V A R D__             **R O L F**
+### PROFESSIONAL TITLE
 -----------------------------------------------------------------------------------
-![until like this](C:\Users\tabuba\Downloads\govardrolf.jpeg)
+![Govard Rolf](C:\Users\tabuba\Desktop\rs_school\rsschool-cv\govardrolf.jpeg)
 
-Phone : +0... **Email: js.st@inbox.ru**  Discord: jsst268 **Github:jsst268**
+1. Phone : +0... 
+2. Email: js.st@inbox.ru
+3. Discord: jsst268 
+4. Github:jsst268
 
 ------------------------------------------------------------------------------------
-#####**ABOUT ME**
+### **ABOUT ME**
 ------------------------------------------------------------------------------------
 > My goal is  get a new major in IT. I would like to became a good frontend developer.
 
+### **WORK EXPERIENCE**
+-------------------------------   -----------------------------------------------------
+Junior Dev: CV: first project: <https://github.com/jsst268/rsschool-cv.git>
 
-##### **WORK EXPERIENCE**
+### **SOFTWARE SKILL**
 ------------------------------------------------------------------------------------
-Junior Dev: CV:[first project]( https://github.com/jsst268/rsschool-cv.git)
+* JAVA SCRIPT     
+* HTML            
+* GIT
+* CSS
+* Visul Studio Code   
 
-##### **SOFTWARE SKILL**
-------------------------------------------------------------------------------------
-JAVA SCRIPT     GIT
------------     ----
-HTML            Visul Studio Code
-----            -----------------
-CSS
-----    
-
-##### **Example of my code:** 
+### **Example of my code:** 
 ------------------------------------------------------------------------------------
 ```javascript
 function century(year) {
@@ -36,13 +37,14 @@ function century(year) {
   return result;
 }
 ```
-#####**EDUCATION** 
+### **EDUCATION** 
 ------------------------------------------------------------------------------------
 **Mathemathics - teacher**
-University (SFedU.ru) 
-1988-1993
+* University (SFedU.ru) 
+* 1988-1993
 
 Level of English : Intermediate
 
-#####**Interests**
-*Travellig     *Running 
+### **Interests**
+* Travellig     
+* Running   

@@ -1,2 +1,2 @@
 # rsschool-cv
- https://github.com/jsst268/rsschool-cv.git
+ https://jsst268.github.io/rsschool-cv/cv
