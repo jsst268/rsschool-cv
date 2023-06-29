@@ -47,4 +47,4 @@ Level of English : Intermediate
 * Travellig     
 * Running   
 
-[1]: (https://github.com/jsst268/rsschool-cv/blob/gh-pages/govardrolf.jpg =139x123) "just now like this"
+[1]: https://github.com/jsst268/rsschool-cv/blob/gh-pages/govardrolf.jpg "just now like this"
