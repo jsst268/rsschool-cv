@@ -1,8 +1,6 @@
 
-## G O V A R D             R O L F
- PROFESSIONAL TITLE
------------------------------------------------------------------------------------
-![Logo][1]
+## G  O  V  A  R  D             R  O  L  F
+![Logo][1 =100X20]
 
 1. Phone :   +0... 
 2. Email:    js.st@inbox.ru
