@@ -1,22 +1,22 @@
 
-## __G O V A R D__             **R O L F**
+## >G O V A R D             R O L F
 ### PROFESSIONAL TITLE
 -----------------------------------------------------------------------------------
-![Govard Rolf](C:\Users\tabuba\Desktop\rs_school\rsschool-cv\govardrolf.jpeg)
+![Govard Rolf](https://github.com/jsst268/rsschool-cv/blob/gh-pages/govardrolf.jpeg)
 
-1. Phone : +0... 
-2. Email: js.st@inbox.ru
-3. Discord: jsst268 
-4. Github:jsst268
+1. Phone :   +0... 
+2. Email:    js.st@inbox.ru
+3. Discord:  jsst268 
+4. Github:   jsst268
 
 ------------------------------------------------------------------------------------
 ### **ABOUT ME**
 ------------------------------------------------------------------------------------
-> My goal is  get a new major in IT. I would like to became a good frontend developer.
+My goal is  get a new major in IT. I would like to became a good frontend developer.
 
 ### **WORK EXPERIENCE**
 -------------------------------   -----------------------------------------------------
-Junior Dev: CV: first project: <https://github.com/jsst268/rsschool-cv.git>
+Junior Dev: CV: first project: <>
 
 ### **SOFTWARE SKILL**
 ------------------------------------------------------------------------------------
