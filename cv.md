@@ -4,12 +4,13 @@
 -----------------------------------------------------------------------------------
 ![until like this](C:\Users\tabuba\Downloads\govardrolf.jpeg)
 
-Phone : +0... Email: js.st@inbox.ru Discord: jsst268 Github:jsst268
+Phone : +0... **Email: js.st@inbox.ru**  Discord: jsst268 **Github:jsst268**
 
 ------------------------------------------------------------------------------------
 #####**ABOUT ME**
 ------------------------------------------------------------------------------------
 > My goal is  get a new major in IT. I would like to became a good frontend developer.
+
 
 ##### **WORK EXPERIENCE**
 ------------------------------------------------------------------------------------
@@ -37,6 +38,11 @@ function century(year) {
 ```
 #####**EDUCATION** 
 ------------------------------------------------------------------------------------
-University degree. Mathematics.
+**Mathemathics - teacher**
+University (SFedU.ru) 
+1988-1993
 
-Level of English : Base.
+Level of English : Intermediate
+
+#####**Interests**
+*Travellig     *Running 
