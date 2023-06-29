@@ -1,5 +1,6 @@
 
 # GOVARD ROLF
+-----------------------------------------------------------------------------------
 ![i can not show to you picture][1]
 
 1. Phone :   +0... 
@@ -17,7 +18,7 @@ My goal is  get a new major in IT. I would like to became a good frontend develo
 Junior Dev: CV: [first project](https://jsst268.github.io/rsschool-cv/cv)
 
 ### **SOFTWARE SKILL**
-------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 * JAVA SCRIPT     
 * HTML            
 * GIT
@@ -25,7 +26,7 @@ Junior Dev: CV: [first project](https://jsst268.github.io/rsschool-cv/cv)
 * Visul Studio Code   
 
 ### **Example of my code:** 
-------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 ```javascript
 function century(year) {
   let stroka = String(year);
@@ -36,7 +37,7 @@ function century(year) {
 }
 ```
 ### **EDUCATION** 
-------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
 **Mathematician-teacher**
 * University (SFedU.ru) 
 * 1988-1993
