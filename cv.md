@@ -1,7 +1,7 @@
 
 # GOVARD ROLF
 -----------------------------------------------------------------------------------
-![i can not show to you picture][1]
+![Not picture](https://github.com/jsst268/rsschool-cv/blob/gh-pages/govardrolf.jpg/150x100 "just like this now")
 
 1. Phone :   +0... 
 2. Email:    js.st@inbox.ru
@@ -48,4 +48,3 @@ Level of English : Intermediate
 * Travellig     
 * Running   
 
-[1]: https://github.com/jsst268/rsschool-cv/blob/gh-pages/govardrolf.jpg "just now like this"
