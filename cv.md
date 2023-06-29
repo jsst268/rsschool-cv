@@ -1,8 +1,8 @@
 
-## >G O V A R D             R O L F
-### PROFESSIONAL TITLE
+## G O V A R D             R O L F
+ PROFESSIONAL TITLE
 -----------------------------------------------------------------------------------
-![Govard Rolf](https://github.com/jsst268/rsschool-cv/blob/gh-pages/govardrolf.jpeg)
+![Logo][1]
 
 1. Phone :   +0... 
 2. Email:    js.st@inbox.ru
@@ -16,7 +16,7 @@ My goal is  get a new major in IT. I would like to became a good frontend develo
 
 ### **WORK EXPERIENCE**
 -------------------------------   -----------------------------------------------------
-Junior Dev: CV: first project: <>
+Junior Dev: CV: [first project](https://jsst268.github.io/rsschool-cv/cv)
 
 ### **SOFTWARE SKILL**
 ------------------------------------------------------------------------------------
@@ -39,7 +39,7 @@ function century(year) {
 ```
 ### **EDUCATION** 
 ------------------------------------------------------------------------------------
-**Mathemathics - teacher**
+**Mathematician-teacher**
 * University (SFedU.ru) 
 * 1988-1993
 
@@ -48,3 +48,5 @@ Level of English : Intermediate
 ### **Interests**
 * Travellig     
 * Running   
+
+[1]: https://github.com/jsst268/rsschool-cv/blob/gh-pages/govardrolf.jpg "just now like this"
