@@ -1,7 +1,8 @@
 
 # GOVARD ROLF
 -----------------------------------------------------------------------------------
-<img src="https://github.com/jsst268/rsschool-cv/blob/gh-pages/govardrolf.jpg" alt="just like this now" wight="44" height="39">
+
+![image](https://github.com/jsst268/rsschool-cv/assets/137799050/9b1851ec-0b29-462d-8ad7-63deaabab811)
 
 1. Phone :   +0... 
 2. Email:    js.st@inbox.ru
