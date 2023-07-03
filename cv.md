@@ -1,10 +1,14 @@
 
 # GOVARD ROLF
+
+### Junior Frontend Developer
 -----------------------------------------------------------------------------------
 
 ![image](https://github.com/jsst268/rsschool-cv/assets/137799050/9b1851ec-0b29-462d-8ad7-63deaabab811)
 
-1. Phone :   +0... 
+### Contact information:
+
+Phone :   +0... 
 2. Email:    js.st@inbox.ru
 3. Discord:  jsst268 
 4. Github:   jsst268
