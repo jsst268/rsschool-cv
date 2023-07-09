@@ -1,34 +1,137 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class=page lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="assets/img/rs_school_js.ico">
-    <title>CV</title>
-    <nav class="nav">
-        <ul class="nav-list".nav-list {
-        
-          }>        
-          <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
-          <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
-          <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
-        </ul>
-      </nav>
-      
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="icon" href="./assets/img/govardrolf1.ico">
+    <title>Govard Rolf CV</title>
+       
 </head>
-<body>
-    <header class="header">
-        <main class="main-header">
-        border: 1px solid red;
+<body> 
+  <header class="big_header">
+      <nav class="nav">
+        <ul class="nav-list">  
+          <li class="nav-item"><a href="#aboutme" class="nav-link">About me</a></li>
+          <li class="nav-item"><a href="#skills"class="nav-link">Skills</a></li>
+          <li class="nav-item"><a href="#code"class="nav-link">Code</a></li>
+          <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>      
+          <li class="nav-item"><a href="#contacts" class="nav-link">Contact</a></li>
+          <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+        </ul>
+      </nav> 
+      <div class="big-container">
+
+      </div> 
+  </header>
+        <main class="big_box">
+          <div class="big-left-side">
+            <figure class="big-figure--left-side">
+              <img
+                src="./assets/img/govardrolf1.jpg"
+                width="346"
+                height="308"
+                class="big-photo"
+                alt="Photo of Govard Rolf"
+              />
+            </figure>
+            <section class="contacts" id="contacts">
+              <h2 class="section-title">Contact:</h2>
+              <ul class="contact__list">
+                <li class="contact__item">
+                  Discord: jsst268 <br />
+                  Github:  jsst268
+                </li>
+                <li class="contact__item">
+                  Email:<a href="mailto:js.st@inbox.ru"> js.st@inbox.ru</a>
+                </li>
+                <li class="contact__item">
+                  Address:<br />
+                  <span>Moscow, Russia</span>
+                </li>
+              </ul>
+            </section>
+            <section class="education" id="education">
+              <h2 class="section-title">Education :</h2>
+              <ul class="education__list">
+                <li class="education__item">
+                  1988-1993 <br />University (SFedU.ru) -<br />
+                  Mathematician-teacher
+                </li>
+                <li class="education__item">
+                  2023 <br />RS School - JF/EF Pre-School 2023Q2
+                </li>
+              </ul>
+            </section>
+          </div>  
+          <div class="big-right-side">
+            <section class="big-page-title">
+              <h1 class="main-title">Govard <br />Rolf</h1>
+              <p><h4>Junior Frontend developer</h4></p>        
+            </section>
+            </figure>
+            
+            <section class="aboutme" id="aboutme">
+                <h2 class="section-title">About me:</h2>
+                <p>
+                  My goal is get a new major in IT. I would like to became a good 
+                  frontend developer.I like travell in the world. I prefer runnig
+                   every day and have a healthy life.
+                </p>
+              </section>
+              <section class="skills" id="skills">
+                <h2 class="section-title">Skills:</h2>
+                <ul class="skills__list">
+                  <li>JAVASCRIPT</li>
+                  <li>HTML</li>
+                  <li>Git</li>
+                  <li>CSS</li>
+                  <li>Visul Studio Code</li>
+                  <li>English - Intermediate</li>
+                </ul> 
+              </section>
+              <section class="code" id="code">
+                <h2 class="section-title">Example of my code :</h2>
+                <details>
+                  <summary>from Codewars.com 8 level</summary>
+                  <pre>
+                    <code data-language = "javascript">
+                      function century(year) {
+                        let stroka = String(year);
+                        let length1 = stroka.length;
+                        let okr=Math.floor(year/100);
+                        let result = (stroka.substr(length1-2,1)!="0"||stroka.substr(length1-1,1)!="0")? okr+1: okr ;
+                        return result;
+                      }
+                    </code>
+                  </pre>
+                </details>
+              </section>
+              <section class="projects" id="projects">
+                <h2 class="section-title">My project:</h2>
+                <a class ="project" href="https://jsst268.github.io/rsschool-cv/cv" target="_blank"> 
+                  CV#2. HTML, CSS & Git Basics   
+                </a>
+                </section>
+              </div>
         </main>
-        <fotter class="footer">
-            body {
-                display: flex;
-                flex-direction: column;
-                justify-content: space-between;
-              }    
-        border: 1px solid green; 
+
+        <fotter class="big-footer">
+          <a class="footer-github" href="https://github.com/jsst268/" target="_blank">
+            GR-GitHub
+          </a>
+            <p class="footer-year">2023</p>
+              <a class="footer-rsschool" href="https://rs.school/js/" target="_blank">
+                <img
+                  src="./assets/img/rs_school_js.svg"
+                  width="86"
+                  height="32"
+                  alt="RS School"
+                />
+              </a>
+              <div class="big-container">
+
+              </div>   
         </fotter> 
 
 </body>
